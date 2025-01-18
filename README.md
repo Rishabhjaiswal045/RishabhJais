@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Jaiswal</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b9527zudkgt1r409vaz4trukis6asz5tt12vxz1zigy8&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
